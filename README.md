@@ -23,7 +23,7 @@ Slightly hipper than [Hipster](https://github.com/dominictarr/hipster).
 This is a fork of the awesome [Hipster](http://npm.im/hipster) by
 [Dominic Tarr](http://dominictarr.com/).
 
-Updated and modified to suit [myself](http://zacanger.com) a little better.
+Updated and modified to suit myself a little better.
 All credit goes to @dominictarr. Much of the README below is his, as well.
 
 Contributing: please do! Syntax files are welcome. Anyone with regular expression
